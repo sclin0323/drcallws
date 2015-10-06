@@ -1,0 +1,7 @@
+.classpath
+.myhibernatedata
+.mymetadata
+.project
+.springBeans
+.settings/
+target/
